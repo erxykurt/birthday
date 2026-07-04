@@ -57,6 +57,8 @@ body{
 
     animation:stars 35s linear infinite;
 
+    pointer-events:none;
+
 }
 
 @keyframes stars{

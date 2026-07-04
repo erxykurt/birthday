@@ -85,19 +85,12 @@ body{
 }
 
 .character{
-
     position:relative;
-
     width:300px;
-
     height:300px;
-
     margin:auto;
-
+    margin-top:120px;
     margin-bottom:20px;
-
-    transform:translateY(100px);
-
 }
 
 .portal{
